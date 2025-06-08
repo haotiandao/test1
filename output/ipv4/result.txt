@@ -1,18 +1,15 @@
 🕘️更新时间,#genre#
-2025-06-08 18:18:32,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-09 06:16:39,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://112.46.85.60:8009/hls/4/index.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-7,http://121.17.146.34:50003/hls/7/index.m3u8
-CCTV-7,http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://121.17.146.34:50003/hls/8/index.m3u8
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8
 央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
@@ -49,20 +46,17 @@ CCTV-14,http://58.19.38.162:9901/tsfile/live/0014_1.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
-东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
+东方卫视,http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
-四川卫视,http://121.17.146.34:50003/hls/48/index.m3u8
-深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
-云南卫视,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
-云南卫视,http://121.17.146.34:50003/hls/55/index.m3u8
