@@ -1,17 +1,18 @@
 🕘️更新时间,#genre#
-2025-09-21 06:23:31,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+2025-09-21 18:25:12,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
+CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
-CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
-CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
+CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -20,11 +21,11 @@ CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 
 📡卫视频道,#genre#
+湖南卫视,http://61.184.46.85:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afce98e9a9c127db3a7a84c255414030f54c82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
+贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://223.167.230.154:4022/rtp/239.45.0.3:5140
-河南卫视,http://180.165.12.90:4022/rtp/239.45.0.3:5140
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
-江苏卫视,http://61.184.46.85:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://180.165.12.90:4022/rtp/239.45.0.3:5140
+陕西卫视,http://219.146.95.58:59902/tsfile/live/0136_1.m3u8
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
