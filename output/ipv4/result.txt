@@ -1,43 +1,19 @@
 🕘️更新时间,#genre#
-2025-09-22 18:34:10,http://ygbh.site/php/bfgd.php?id=063
+2025-09-23 06:24:26,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 
 📺央视频道,#genre#
-CCTV-4,http://ygbh.site/php/bfgd.php?id=063
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV-6,http://113.15.109.216:59901/tsfile/live/0006_1.m3u8
-CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-9,http://113.15.109.216:59901/tsfile/live/0009_1.m3u8
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
-CCTV-10,http://ygbh.site/php/bfgd.php?id=129
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130
 CCTV-12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://ygbh.site/php/bfgd.php?id=131
-CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
+CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
-CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
-CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
-CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
-CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
-CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
+CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afcc30c88250b45e02c3ee3918e37e0dd8ac82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
-辽宁卫视,http://61.184.46.85:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
