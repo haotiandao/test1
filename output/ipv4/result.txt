@@ -1,12 +1,22 @@
 🕘️更新时间,#genre#
-2025-11-14 06:25:25,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-14 18:32:38,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
+CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
+CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
+CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
