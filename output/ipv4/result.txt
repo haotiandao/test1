@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-18 18:30:53,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-19 06:42:51,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
@@ -11,16 +11,17 @@ CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
-CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg
+CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=lg
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=lg
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
+CCTV-11,http://220.170.241.204:9901/tsfile/live/0011_1.m3u8
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=lg
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
