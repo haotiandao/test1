@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 06:26:50,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2025-12-11 18:32:10,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -8,3 +8,4 @@
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+山西卫视,http://223.10.164.178:8459/rtp/239.1.1.1:8001
