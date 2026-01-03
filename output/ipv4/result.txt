@@ -1,14 +1,12 @@
 🕘️更新时间,#genre#
-2026-01-03 18:28:27,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
+2026-01-04 06:26:20,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 
 📺央视频道,#genre#
-CCTV-9,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
-CCTV-15,http://36.36.200.198:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
 第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084
-怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
+怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156
 高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 
@@ -19,5 +17,3 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
